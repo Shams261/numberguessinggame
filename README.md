@@ -18,3 +18,5 @@ Welcome to the Number Guessing Game! This is a simple and fun Android game devel
 -  Simple and easy to play
 
 ### Screenshots
+
+! [UI] (Screenshot 2024-07-15 at 5.43.34 PM.png)
