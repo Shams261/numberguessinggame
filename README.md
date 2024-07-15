@@ -11,3 +11,10 @@ Welcome to the Number Guessing Game! This is a simple and fun Android game devel
 - [Usage](#Usage)
   
 ### Features
+
+- User-friendly interface
+-  Random number generation
+-  Customizable number range
+-  Simple and easy to play
+
+### Screenshots
