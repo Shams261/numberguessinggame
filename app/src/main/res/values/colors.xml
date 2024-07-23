@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <resources>
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
@@ -5,4 +6,10 @@
     <color name="colorBackground">#ADD8E6</color>
     <color name="colorButton">#FF5722</color>
     <color name="colorText">#000000</color>
+=======
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+>>>>>>> 66a5689 (version1)
 </resources>

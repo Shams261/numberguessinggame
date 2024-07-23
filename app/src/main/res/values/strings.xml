@@ -1,8 +1,17 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">NumberGuessingGame</string>
     <string-array name="difficulty_levels">
         <item>Easy</item>
         <item>Medium</item>
         <item>Hard</item>
+=======
+    <string name="app_name">CalculatorApp</string>
+    <string-array name="operations">
+        <item>Addition</item>
+        <item>Subtraction</item>
+        <item>Multiplication</item>
+        <item>Division</item>
+>>>>>>> 66a5689 (version1)
     </string-array>
 </resources>
